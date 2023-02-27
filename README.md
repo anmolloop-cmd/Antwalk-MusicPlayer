@@ -1,4 +1,3 @@
-# Bookmark (STAR) My Project if it's useful.
 # AntWalk Music-Player
 <p align="center">
   <img src="./UI/display.PNG" />
